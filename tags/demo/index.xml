@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo on Shangtong&#39;s Homepage</title>
+    <link>https://shangtongzhang.github.io/tags/demo/</link>
+    <description>Recent content in Demo on Shangtong&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://shangtongzhang.github.io/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PyTorch DeepRL</title>
+      <link>https://shangtongzhang.github.io/project/pytorch/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://shangtongzhang.github.io/project/pytorch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

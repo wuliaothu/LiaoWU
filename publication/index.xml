@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Shangtong&#39;s Homepage</title>
+    <link>https://shangtongzhang.github.io/publication/</link>
+    <description>Recent content in Publications on Shangtong&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://shangtongzhang.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Deeper Look at Experience Replay</title>
+      <link>https://shangtongzhang.github.io/publication/replay/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://shangtongzhang.github.io/publication/replay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Demon Control Architecture with Off-Policy Learning and Flexible Behavior Policy</title>
+      <link>https://shangtongzhang.github.io/publication/demon_control/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://shangtongzhang.github.io/publication/demon_control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing Deep Reinforcement Learning and Evolutionary Methods in Continuous Control</title>
+      <link>https://shangtongzhang.github.io/publication/rl-es/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://shangtongzhang.github.io/publication/rl-es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crossprop: Learning Representations by Stochastic Meta-Gradient Descent in Neural Networks</title>
+      <link>https://shangtongzhang.github.io/publication/crossprop/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://shangtongzhang.github.io/publication/crossprop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Deep Neural Network for Modeling Music</title>
+      <link>https://shangtongzhang.github.io/publication/music/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 -0600</pubDate>
+      
+      <guid>https://shangtongzhang.github.io/publication/music/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Shangtong&#39;s Homepage</title>
+    <link>https://shangtongzhang.github.io/home/</link>
+    <description>Recent content in Homes on Shangtong&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://shangtongzhang.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://shangtongzhang.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://shangtongzhang.github.io/home/about/</guid>
+      <description>Biography My name is Shangtong Zhang (张尚彤). Now I am a research intern at the Huaiwei Reinforcement Learning for Autonomous Driving Lab (Edmonton). I will start my DPhil at University of Oxford from October 2018 with Prof. Shimon Whiteson. Thanks for the generous funding from EPSRC and Dept. of Computer Science, University of Oxford.
+I graduated from Dept. of Computing Science, University of Alberta in July 2018 with a master&amp;rsquo;s degree specialized in statistical machine learning.</description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://shangtongzhang.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://shangtongzhang.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://shangtongzhang.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://shangtongzhang.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://shangtongzhang.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://shangtongzhang.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Employments</title>
+      <link>https://shangtongzhang.github.io/home/employments/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://shangtongzhang.github.io/home/employments/</guid>
+      <description>Research Intern May 2018 - Now RLAD Lab, Huawei, Edmonton
+Research Assistant Jan 2017 - April 2018 RLAI Lab, University of Alberta
+Teaching Assistant Sept 2016 - Dec 2016 CMPUT 229, University of Alberta
+Software Developer Engineer Intern July 2015 - May 2016 SAP, Shanghai</description>
+    </item>
+    
+    <item>
+      <title>Misc</title>
+      <link>https://shangtongzhang.github.io/home/misc/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://shangtongzhang.github.io/home/misc/</guid>
+      <description>Edmonton Half Marathon Aug 2017 2 hrs 17 mins
+Taihu Lake Half Marathon Dec 2015 2 hrs 34 mins</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://shangtongzhang.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://shangtongzhang.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

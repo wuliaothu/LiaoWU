@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Shangtong&#39;s Homepage</title>
+    <link>https://shangtongzhang.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Shangtong&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://shangtongzhang.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coding Deep Reinforcement Learning Papers</title>
+      <link>https://shangtongzhang.github.io/talk/coding_rl_papers/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://shangtongzhang.github.io/talk/coding_rl_papers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Shangtong&#39;s Homepage</title>
+    <link>https://shangtongzhang.github.io/project/</link>
+    <description>Recent content in Projects on Shangtong&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://shangtongzhang.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PyTorch DeepRL</title>
+      <link>https://shangtongzhang.github.io/project/pytorch/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://shangtongzhang.github.io/project/pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Summer of Code (GSoC) 2017</title>
+      <link>https://shangtongzhang.github.io/project/mlpack/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://shangtongzhang.github.io/project/mlpack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning: An Introduction</title>
+      <link>https://shangtongzhang.github.io/project/rl_intro/</link>
+      <pubDate>Tue, 27 Dec 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://shangtongzhang.github.io/project/rl_intro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Summer of Code (GSoC) 2014</title>
+      <link>https://shangtongzhang.github.io/project/xapian/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 -0600</pubDate>
+      
+      <guid>https://shangtongzhang.github.io/project/xapian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
